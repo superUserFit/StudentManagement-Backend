@@ -1,0 +1,9 @@
+.email-header {
+    text-align: center;
+}
+
+.email-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
